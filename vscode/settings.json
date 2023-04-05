@@ -1,6 +1,6 @@
 {
   "editor.tokenColorCustomizations": {
-      "[Atom One Dark]": {
+      "[[One Dark Pro]]": {
         "textMateRules": [{
           "scope": [
             "keyword",
