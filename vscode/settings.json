@@ -1,6 +1,6 @@
 {
   "editor.tokenColorCustomizations": {
-      "[[One Dark Pro]]": {
+      "[One Dark Pro]": {
         "textMateRules": [{
           "scope": [
             "keyword",
